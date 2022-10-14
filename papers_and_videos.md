@@ -39,3 +39,5 @@ https://knowen-production.s3.amazonaws.com/uploads/attachment/file/1814/Buchman_
 https://www.paradigm.xyz/2022/07/experiment-narwhal-bullshark-cosmos-stack
 
 https://docs.sui.io/learn/architecture/consensus
+
+https://martinfowler.com/articles/patterns-of-distributed-systems/paxos.html
